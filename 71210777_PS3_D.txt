@@ -1,0 +1,30 @@
+x=bilangan asli
+If mencari nilai x!
+	tampilkan hasil "x*(x-1)*(x-2) ... "
+
+
+Contoh :
+misal x=10
+If mencari nilai x!
+	tampilkan hasil "10*(10-1)*(10-2)*(10-3)*(10-4)*(10-5)*(10-6)*(10-7)*(10-8)*(10-9)
+
+10!
+= 10*9*8*7*6*5*4*3*2*1
+= 3628800
+
+
+Pseudocode :
+Start 
+Menginputkan bilangan yang akan difaktorialkan kedalam variabel x
+Menginputkan nilai variabel x kedalam variabel y
+
+Melakukan perulangan sampai nilai variabel x = 1
+	While nilai variabel x lebih besar dari 1 maka dilakukan perhitungan
+		variabel x = nilai input x dikurangi 1
+		variabel y = niai variabel y dikalikan dengan nilai variabel x 
+
+
+		while end
+			menampilkan nilai y
+	End
+	
