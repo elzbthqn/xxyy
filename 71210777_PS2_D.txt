@@ -1,0 +1,7 @@
+Dalam gambar terdapat 7 gelas yang akan terisi oleh air melalui pipa-pipa yang tersedia.
+Dan pipa-pipa tersebut memiliki ukuran yang berbeda-beda sehingga waktu untuk mengisi juga berbeda2.
+Dalam gambar gelas yang akan terisi terlebih dahulu adalah gelas nomor 4.
+Karena pipa nomer 1 tidak bisa terisi sebab tidak ada jalan/tersumbat.
+Pipa nomer 2 pun sama namun yang tersumbat berada diujung pipa.
+Pipa nomer 3,5,6,7 sama dengan nomor 2, pipa-pipa tersebut sama-sama tersumbat hanya berbeda tempat penyumbatannya.
+Jadi, yang gelas yang akan terisi terlebih dahulu dan satu-satunya gelas yang terisi adalah gelas nomer 4.
